@@ -415,4 +415,4 @@ You could also handle this at the file level, placing mock extensions in separat
 
 I hope this makes the creation of previews and tests easier for you! 😀
 
-Here's a link to the completed project: TODO
+Here's a link to the completed project: https://github.com/dafurman/Post-EasyTypesafeMockingInSwift
