@@ -1,6 +1,6 @@
 # Easy Typesafe Mocking in Swift
 
-I often feel that one of one of the greatest deterrents to writing good tests or Xcode previews is just taking the time to set up mock data in the first place. We're going to go through the process of making a basic app, complete with networking and previews, and then see how we can improve it at the end. 
+I often feel that one of one of the greatest deterrents to writing good tests or Xcode previews is just taking the time to set up mock data in the first place. We're going to go through the process of making a basic app, complete with networking and previews, and then see how we can make this process easier and more scalable at the end. 
 
 If you're just interested in seeing the improved solution to mocking, skip to the "Extensions to the Rescue!" section.
 
